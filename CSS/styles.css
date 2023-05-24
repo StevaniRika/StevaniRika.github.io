@@ -1,0 +1,28 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e1d0f1dc;
+}
+
+#internship {
+    background-color: #e1d0f1dc;
+}
+#Certificate {
+    background-color: #e1d0f1dc;
+}
+#footer {
+    background-color: #901dfc;
+}
+section {
+    padding-top: 5rem;
+}
+
+footer .social {
+    padding: 1rem 0;
+  }
+  
+  footer .social a {
+    color: #fff;
+    margin:  1rem;
+  }
+ 
+
